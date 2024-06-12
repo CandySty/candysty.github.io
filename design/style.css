@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Red Hat Text', sans-serif;
+    background-color: red;
+}
+
+img{
+    max-width: 100%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.attribution {
+     font-size: 11px; text-align: center; 
+    }
+    .attribution a {
+         color: hsl(228, 45%, 44%); 
+        }
